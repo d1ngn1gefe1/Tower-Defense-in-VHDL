@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Nov 25 19:10:17 2013
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : audiopart
+Top-level Entity Name : audio_interface
+Family : Cyclone II
+Total logic elements : 619
+    Total combinational functions : 569
+    Dedicated logic registers : 179
+Total registers : 179
+Total pins : 47
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

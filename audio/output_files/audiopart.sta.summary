@@ -1,0 +1,93 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -8.058
+TNS   : -501.680
+
+Type  : Slow Model Setup 'music_clk'
+Slack : -1.266
+TNS   : -10.128
+
+Type  : Slow Model Setup 'i2c_counter[9]'
+Slack : -0.651
+TNS   : -1.297
+
+Type  : Slow Model Hold 'clk'
+Slack : -2.549
+TNS   : -13.263
+
+Type  : Slow Model Hold 'i2c_counter[9]'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Slow Model Hold 'music_clk'
+Slack : 0.553
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'i2c_counter[9]'
+Slack : -1.037
+TNS   : -3.617
+
+Type  : Slow Model Removal 'i2c_counter[9]'
+Slack : 1.630
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -168.380
+
+Type  : Slow Model Minimum Pulse Width 'music_clk'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Slow Model Minimum Pulse Width 'i2c_counter[9]'
+Slack : -0.500
+TNS   : -4.000
+
+Type  : Fast Model Setup 'clk'
+Slack : -3.091
+TNS   : -149.193
+
+Type  : Fast Model Setup 'music_clk'
+Slack : -0.091
+TNS   : -0.728
+
+Type  : Fast Model Setup 'i2c_counter[9]'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast Model Hold 'clk'
+Slack : -1.552
+TNS   : -9.197
+
+Type  : Fast Model Hold 'i2c_counter[9]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'music_clk'
+Slack : 0.256
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'i2c_counter[9]'
+Slack : -0.292
+TNS   : -0.943
+
+Type  : Fast Model Removal 'i2c_counter[9]'
+Slack : 1.097
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.380
+TNS   : -168.380
+
+Type  : Fast Model Minimum Pulse Width 'music_clk'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Fast Model Minimum Pulse Width 'i2c_counter[9]'
+Slack : -0.500
+TNS   : -4.000
+
+------------------------------------------------------------

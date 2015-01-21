@@ -1,0 +1,16 @@
+0-21599 - Basic tower           -- 21600 per type (Basic,Poison,Slow), 7200 per level (0,1,2), 1800 per direction (D,L,R,U), 900 per animation (0,1)
+21600-43199 - Poison tower
+43200-64799 - Slow tower
+64800-65699 - Path
+65700-66599 - Empty
+66600-80999 - Enemies          -- 900 per level (1-16)
+81000-81000 - Dark red
+81001-81001 - Red
+81002-81002 - Light red
+81003-81003 - Grey
+81004-81004 - White
+81005-81005 - Black
+81006-81006 - Dark grey
+81007-81007 - Orange
+81008-81008 - Blue
+81009-81009 - Purple
